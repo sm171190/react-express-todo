@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "sm171190",
+    "MONGO_PASSWORD": "Convolution17",
+    "MONGO_DB": "ToDoApp"
+  }
+}
